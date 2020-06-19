@@ -9,3 +9,15 @@ C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Project
 C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\ProjectRestaurant\ProjectRestaurant.Data\obj\Debug\netcoreapp3.1\ProjectRestaurant.Data.dll
 C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\ProjectRestaurant\ProjectRestaurant.Data\obj\Debug\netcoreapp3.1\ProjectRestaurant.Data.pdb
 C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\ProjectRestaurant\ProjectRestaurant.Data\obj\Debug\netcoreapp3.1\ProjectRestaurant.Data.genruntimeconfig.cache
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant.Data\bin\Debug\netcoreapp3.1\ProjectRestaurant.Data.deps.json
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant.Data\bin\Debug\netcoreapp3.1\ProjectRestaurant.Data.runtimeconfig.json
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant.Data\bin\Debug\netcoreapp3.1\ProjectRestaurant.Data.runtimeconfig.dev.json
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant.Data\bin\Debug\netcoreapp3.1\ProjectRestaurant.Data.dll
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant.Data\bin\Debug\netcoreapp3.1\ProjectRestaurant.Data.pdb
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant.Data\obj\Debug\netcoreapp3.1\ProjectRestaurant.Data.csprojAssemblyReference.cache
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant.Data\obj\Debug\netcoreapp3.1\ProjectRestaurant.Data.csproj.CoreCompileInputs.cache
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant.Data\obj\Debug\netcoreapp3.1\ProjectRestaurant.Data.AssemblyInfoInputs.cache
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant.Data\obj\Debug\netcoreapp3.1\ProjectRestaurant.Data.AssemblyInfo.cs
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant.Data\obj\Debug\netcoreapp3.1\ProjectRestaurant.Data.dll
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant.Data\obj\Debug\netcoreapp3.1\ProjectRestaurant.Data.pdb
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant.Data\obj\Debug\netcoreapp3.1\ProjectRestaurant.Data.genruntimeconfig.cache
