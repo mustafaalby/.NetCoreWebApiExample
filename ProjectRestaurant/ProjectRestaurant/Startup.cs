@@ -15,6 +15,7 @@ using Microsoft.Extensions.Hosting;
 using ProjectRestaurant.Data.Context;
 using ProjectRestaurant.Service.Service;
 using ProjectRestaurant.Data.Entities;
+using ProjectRestaurant.Hubs;
 
 namespace ProjectRestaurant
 {
@@ -30,6 +31,7 @@ namespace ProjectRestaurant
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddSignalR();
             services.AddTransient<RestoranService>();
             services.AddDbContext<RestoranDbContext>(options =>
                 options.UseSqlServer(
@@ -56,7 +58,7 @@ namespace ProjectRestaurant
             }
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
+            
             app.UseRouting();
 
             app.UseAuthentication();
@@ -68,6 +70,7 @@ namespace ProjectRestaurant
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
                 endpoints.MapRazorPages();
+                endpoints.MapHub<OturumIstek>("/OturumIstek");
             });
         }
     }
