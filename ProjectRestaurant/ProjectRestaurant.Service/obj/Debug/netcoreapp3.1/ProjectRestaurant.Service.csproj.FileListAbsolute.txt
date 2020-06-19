@@ -1,0 +1,12 @@
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\ProjectRestaurant\ProjectRestaurant.Service\bin\Debug\netcoreapp3.1\ProjectRestaurant.Service.deps.json
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\ProjectRestaurant\ProjectRestaurant.Service\bin\Debug\netcoreapp3.1\ProjectRestaurant.Service.dll
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\ProjectRestaurant\ProjectRestaurant.Service\bin\Debug\netcoreapp3.1\ProjectRestaurant.Service.pdb
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\ProjectRestaurant\ProjectRestaurant.Service\bin\Debug\netcoreapp3.1\ProjectRestaurant.Data.dll
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\ProjectRestaurant\ProjectRestaurant.Service\bin\Debug\netcoreapp3.1\ProjectRestaurant.Data.pdb
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\ProjectRestaurant\ProjectRestaurant.Service\obj\Debug\netcoreapp3.1\ProjectRestaurant.Service.csprojAssemblyReference.cache
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\ProjectRestaurant\ProjectRestaurant.Service\obj\Debug\netcoreapp3.1\ProjectRestaurant.Service.csproj.CoreCompileInputs.cache
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\ProjectRestaurant\ProjectRestaurant.Service\obj\Debug\netcoreapp3.1\ProjectRestaurant.Service.AssemblyInfoInputs.cache
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\ProjectRestaurant\ProjectRestaurant.Service\obj\Debug\netcoreapp3.1\ProjectRestaurant.Service.AssemblyInfo.cs
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\ProjectRestaurant\ProjectRestaurant.Service\obj\Debug\netcoreapp3.1\ProjectRestaurant.Service.csproj.CopyComplete
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\ProjectRestaurant\ProjectRestaurant.Service\obj\Debug\netcoreapp3.1\ProjectRestaurant.Service.dll
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\ProjectRestaurant\ProjectRestaurant.Service\obj\Debug\netcoreapp3.1\ProjectRestaurant.Service.pdb
