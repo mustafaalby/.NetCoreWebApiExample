@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ProjectRestaurant.Service.Dto
 {
-    public class RestoranYeniKayitDto
+    public class NewRestaurantDto
     {
         
         public string Email { get; set; }

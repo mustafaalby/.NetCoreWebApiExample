@@ -814,8 +814,14 @@ C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restora
 C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant\obj\Debug\netcoreapp3.1\Razor\Views\Oturum\Index.cshtml.g.cs
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant\obj\Debug\netcoreapp3.1\ProjectRestaurant.csproj.CoreCompileInputs.cache
 C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant\obj\Debug\netcoreapp3.1\ProjectRestaurant.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant\obj\Debug\netcoreapp3.1\ProjectRestaurant.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant\bin\Debug\netcoreapp3.1\libman.json
-C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant\obj\Debug\netcoreapp3.1\Razor\Views\Oturum\Index.cshtml.g.cs
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant\obj\Debug\netcoreapp3.1\Razor\Views\Restaurant\LoginRestaurant.cshtml.g.cs
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant\obj\Debug\netcoreapp3.1\Razor\Views\Restaurant\NewRestaurant.cshtml.g.cs
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant\obj\Debug\netcoreapp3.1\Razor\Views\Restaurant\Index.cshtml.g.cs
+C:\Users\albym\Desktop\Github\Kodluyoruz\KodluyoruzTask4MezuniyetProjesi\Restoran\ProjectRestaurant\ProjectRestaurant\obj\Debug\netcoreapp3.1\Razor\Views\Restaurant\EditRestaurant.cshtml.g.cs

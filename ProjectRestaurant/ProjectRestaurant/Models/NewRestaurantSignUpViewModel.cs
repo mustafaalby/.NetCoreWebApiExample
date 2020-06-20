@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjectRestaurant.Models
 {
-    public class YeniRestoranKayitViewModel
+    public class NewRestaurantSignUpViewModel
     {
         [Required(ErrorMessage = "Mail Adresinizi Giriniz")]
         [EmailAddress]
@@ -14,7 +14,7 @@ namespace ProjectRestaurant.Models
 
         [Required(ErrorMessage = "Kullanıcı Adınızı Giriniz")]
         [StringLength(10, ErrorMessage = "Kullanıcı adınız en fazla 10 karakter olabilir")]
-        public string KullaniciAdi { get; set; }
+        public string UserName { get; set; }
 
         [Required(ErrorMessage = "Şifrenizi Giriniz")]
         [StringLength(10, ErrorMessage = "Şifre uzunluğu en fazla 10 karakter olabilir")]

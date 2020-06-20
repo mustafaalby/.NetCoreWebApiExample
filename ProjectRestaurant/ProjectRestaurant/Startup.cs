@@ -16,6 +16,7 @@ using ProjectRestaurant.Data.Context;
 using ProjectRestaurant.Service.Service;
 using ProjectRestaurant.Data.Entities;
 using ProjectRestaurant.Hubs;
+using AutoMapper;
 
 namespace ProjectRestaurant
 {
@@ -32,12 +33,21 @@ namespace ProjectRestaurant
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddSignalR();
-            services.AddTransient<RestoranService>();
+            services.AddTransient<RestaurantService>();
+            services.AddAutoMapper(typeof(Startup));
             services.AddDbContext<RestoranDbContext>(options =>
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
             services.AddDefaultIdentity<Restoran>(options => options.SignIn.RequireConfirmedAccount = false).AddRoles<IdentityRole>()
                 .AddEntityFrameworkStores<RestoranDbContext>();
+            services.Configure<IdentityOptions>(options => {
+                options.Password.RequireDigit = false;
+                options.Password.RequireLowercase = false;
+                options.Password.RequiredLength = 1;
+                options.Password.RequireNonAlphanumeric = false;
+                options.Password.RequireUppercase = false;
+                options.Password.RequiredUniqueChars = 0;
+            });
             services.AddControllersWithViews();
             services.AddRazorPages();
         }

@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "+cGD9ljJfjNmsUxXN4Bv7rysjNPJ13BlNlaFdZaHJVc8oPgsz+k2B5+g+m0UbchpA+GL5VfiLPtj0nhIzs5xjQ==",
+  "dgSpecHash": "CIn6fWOKy87Ef98f+7iA8vDcytuKoRQ9l7vCTRhI7DCuqUO/+utiEBoSc7mM/JigmYeS99cZyCfI/Lc2Cn1JHQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\albym\\Desktop\\Github\\Kodluyoruz\\KodluyoruzTask4MezuniyetProjesi\\Restoran\\ProjectRestaurant\\ProjectRestaurant\\ProjectRestaurant.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\albym\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\albym\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\albym\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\albym\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\albym\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
